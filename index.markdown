@@ -5,4 +5,8 @@
 layout: default
 ---
 
+![Erik Jan de Vries](about/Erik Jan de Vries/erikjandevries.jpg){: .aboutPhoto}
+
 # Tadata
+
+[Erik Jan de Vries](https://linkedin.com/in/erikjandevries) is an award-winning, freelance AI & MLOps consultant.

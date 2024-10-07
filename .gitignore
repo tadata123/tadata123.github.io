@@ -1,3 +1,6 @@
+*CV*.pdf
+!*CV*public.pdf
+
 _site
 .sass-cache
 .jekyll-cache
