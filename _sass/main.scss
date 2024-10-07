@@ -1,0 +1,100 @@
+:root {
+  --bs-body-bg: #ffffff;
+  --bs-body-color: #000000;
+  --bs-light-rgb: 207, 228, 247;
+  --navbar-border-color-rgb: 112, 174, 232;
+  --navbar-separator-color-rgb: 159, 199, 234;
+  --title-color: #0F3C66;
+}
+
+[data-bs-theme="dark"] {
+  --bs-body-bg: #000000;
+  --bs-body-color: #ffffff;
+  --bs-light-rgb: 15, 60, 102;
+  --navbar-border-color-rgb: 112, 174, 232;
+  --navbar-separator-color-rgb: 159, 199, 234;
+  --title-color: #70AEE8;
+}
+
+
+html {
+  overflow-y: scroll;
+}
+
+body {
+  width: 100%;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+  font-family: Arial, system-ui;
+  background-color: var(--bs-body-bg)
+}
+
+.navbar {
+  border-bottom: 2px solid rgba(var(--navbar-border-color-rgb), 1);
+}
+
+.nav-item.separator-right {
+  position: relative;
+  padding-right: 15px;
+  margin-right: 15px;
+}
+
+.nav-item.separator-right::after {
+  content: "";
+  position: absolute;
+  right: 0;
+  top: 0;
+  height: 100%;
+  border-right: 1px solid rgba(var(--navbar-separator-color-rgb), 1);
+}
+
+.nav-item:last-child.separator-right::after {
+  display: none;
+}
+
+main > div {
+  height: 10rem;
+  margin: 2rem;
+  border: darkgrey 1px solid;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+h1.page-title {
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+
+h1, h2, h3, h2 a, h3 a {
+  color: var(--title-color);
+}
+
+h1, h2, h3 {
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+
+article.post {
+    margin-bottom: 15px;
+}
+
+.aboutPhoto {
+    float: right;
+    width: 192px;
+}
+
+ul, ol {
+    margin-left: 1.5em;
+    margin-bottom: 10px;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+table td {
+    padding: 2px 10px;
+    vertical-align: top;
+}

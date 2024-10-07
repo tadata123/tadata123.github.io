@@ -19,11 +19,9 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Tadata
-email: your-email@example.com
+# email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  AI & ML Consulting
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://tadata.nl" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: erikjandevries
@@ -54,3 +52,14 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+defaults:
+  - scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts" # this applies the default layout to all posts
+    values:
+      layout: "post" # replace "default" with the name of your desired layout
+      permalink: /blog/:year/:month/:day/:title/
+
+footer-links:
+  linkedin: erikjandevries
