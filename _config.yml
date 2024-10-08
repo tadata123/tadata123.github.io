@@ -53,6 +53,11 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
+markdown: kramdown
+kramdown:
+  syntax_highlighter: rouge
+  input: GFM
+
 defaults:
   - scope:
       path: "" # an empty string here means all files in the project
