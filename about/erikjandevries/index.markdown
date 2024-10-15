@@ -1,8 +1,8 @@
 ---
 layout: redirect
 title: Erik Jan de Vries
-permalink: /about/Erik Jan de Vries/
-redirect_to: /about/Erik Jan de Vries/cv/
+permalink: /about/erikjandevries/
+redirect_to: /about/erikjandevries/cv/
 ---
 
 - [LinkedIn](https://linkedin.com/in/erikjandevries)

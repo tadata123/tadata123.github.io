@@ -1,5 +1,5 @@
 ---
 layout: redirect
 permalink: /about/
-redirect_to: /about/Erik Jan de Vries/cv/
+redirect_to: /about/erikjandevries/cv/
 ---

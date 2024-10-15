@@ -5,7 +5,7 @@
 layout: default
 ---
 
-![Erik Jan de Vries](about/Erik Jan de Vries/erikjandevries.jpg){: .aboutPhoto}
+![Erik Jan de Vries](about/erikjandevries/erikjandevries.jpg){: .aboutPhoto}
 
 # Tadata
 
