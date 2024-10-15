@@ -12,9 +12,17 @@
 <body>
 
 {% include navbar.html %}
-{% include content.html %}
 
-<p>If you are not redirected, <a href="{{ page.redirect_to }}">click here</a>.</p>
+<div class="container mt-4">
+  <div class="row">
+    <div class="col-md-12">
+      <h1>Redirecting to...</h1>
+      <p><a href="{{ page.redirect_to }}">{{ page.redirect_to }}</a></p>
+    </div>
+  </div>
+</div>
+
+{% include content.html %}
 
 {% include footer.html %}
 
