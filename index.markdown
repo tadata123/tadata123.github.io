@@ -9,7 +9,7 @@ layout: default
 
 # Tadata
 
-**Erik Jan de Vries** is an award-winning, freelance AI & MLOps consultant.
+Erik Jan de Vries is an award-winning, freelance AI & MLOps consultant.
 
 - [LinkedIn](https://linkedin.com/in/erikjandevries)
 - [CV](about/erikjandevries/cv)
