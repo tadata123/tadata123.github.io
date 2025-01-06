@@ -6,9 +6,9 @@ redirect_to: /about/erikjandevries/cv/
 ---
 
 - [LinkedIn](https://linkedin.com/in/erikjandevries)
-- [CV](cv/Erik Jan de Vries CV EN 2024-09-29 public.pdf)
+- [CV](cv/Erik Jan de Vries CV EN 2024-11-27 public.pdf)
 
-<!-- <object data="Erik Jan de Vries CV EN 2024-09-29 public.pdf" type="application/pdf" width="100%" height="800px">
+<!-- <object data="Erik Jan de Vries CV EN 2024-11-27 public.pdf" type="application/pdf" width="100%" height="800px">
     <p>Your browser does not support PDFs. <a href="Erik Jan de Vries CV EN 2024-09-29.pdf">Download the CV</a>.</p>
 </object> -->
 
