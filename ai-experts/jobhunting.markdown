@@ -16,6 +16,7 @@ permalink: /ai-experts/freelancejobhunting.html
   - [Data jobs](https://striive.com/nl/opdrachten?query=data)
   - [Data freelance / remote](https://freelancer.striive.com/inbox/all/?searchTerm=data&professionalTypes=FREELANCERS_EMPLOYEES,FREELANCERS_ONLY&remoteAllowed=YES,HYBRID)
   - [AI freelance / remote](https://freelancer.striive.com/inbox/all/?searchTerm=AI&professionalTypes=FREELANCERS_EMPLOYEES,FREELANCERS_ONLY&remoteAllowed=YES,HYBRID)
+- [Freelance.nl](https://mijn.freelance.nl/opdracht-vinden/zoeken)
 
 - [Inhuurdesk](https://inhuurdesk.nl) (<https://staffingdesk.my.site.com/>)
 - [Freep](https://www.freep.nl)
