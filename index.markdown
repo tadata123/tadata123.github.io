@@ -11,7 +11,7 @@ layout: default
 
 Erik Jan de Vries is an award-winning, freelance AI & MLOps consultant.
 
-- [CV](about/erikjandevries/cv)
+<!-- - [CV](about/erikjandevries/cv) -->
 - [LinkedIn](https://linkedin.com/in/erikjandevries)
 
 <style>
