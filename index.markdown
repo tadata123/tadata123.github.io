@@ -12,7 +12,7 @@ layout: default
 Erik Jan de Vries is an award-winning, freelance AI & MLOps consultant.
 
 <!-- - [CV](about/erikjandevries/cv) -->
-- [LinkedIn](https://linkedin.com/in/erikjandevries)
+<!-- - [LinkedIn](https://linkedin.com/in/erikjandevries) -->
 
 <style>
 .libutton {
@@ -32,4 +32,8 @@ Erik Jan de Vries is an award-winning, freelance AI & MLOps consultant.
 }
 </style>
 
+<table border="0"><tr><td>
 <a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=erikjandevries" target="_blank">Follow me on LinkedIn</a>
+</td><td>
+<a class="libutton" href="https://linkedin.com/in/erikjandevries" target="_blank">Visit my LinkedIn profile</a>
+</td></tr></table>
